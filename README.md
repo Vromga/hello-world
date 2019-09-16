@@ -4,6 +4,7 @@
 - Skype: doktornikita
 - Telegram: @vromga
 - GitHub: @vromga
+
 ##Summary
 I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Every single day as the
             doctor I
@@ -29,6 +30,7 @@ I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Ever
             advance
             my skills in web designing, polishing my skills and getting a new one, and combine my two passions –
             technologies and veterinary sciences.
+            
 ##Skills
 - Language JavaScript
 - Other technologies: HTML/HTML5, CSS/CSS3
@@ -39,7 +41,9 @@ I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Ever
 - OS: Windows, Linux (ubuntu)
 - Search engines: Google.com, Stackoverflow.com
 - Other experience of using languages: PHP, Golang
+
 ##Code examples
+
 ###Kata: Find the stray number
 ```javascript
 function stray(numbers) {
@@ -56,6 +60,7 @@ function stray(numbers) {
             }else {return uniqueArr[0];}
         }
 ```
+
 ###Kata: Disemvowel Trolls
 ```javascript
 function disemvowel(str) {
@@ -73,6 +78,7 @@ function disemvowel(str) {
             return newStr.join("");
         }
 ```
+
 ##Education
 - 2019 - You Don't Know JS Yet (book series) - 2nd Edition
 - 2019 – up to now [The Modern JavaScript Tutorial](https://learn.javascript.ru)
@@ -82,11 +88,13 @@ function disemvowel(str) {
                   | Cattle Embryo Transplantation.
 - 2003 – 2008 Vitebsk State Academy of Veterinary Medicine | Obstetrics, gynecology and biotechnology of
                   animal reproduction.
+                  
 ####Professional seminars and workshops
 - 12/09/2018 Methods of diagnosis and treatment of tumors of the skin and soft tissue.
 - 12/03/2018 A modern look at the stages of general anesthesia. From patient preparation to withdrawal
                   from anesthesia.
 - 30/03/2018 Participation in the seminar RS road show: skin disease.
 - 21/03/2016 Dietary aspects of the diets ProPlan Veterinary.
+
 ##English
 English – B2
