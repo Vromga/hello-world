@@ -50,12 +50,12 @@ function stray(numbers) {
             let uniqueArr = [];
             let uniqueArr2 = [];
             uniqueArr.push(numbers[0]);
-            for (let i = 1; i &lt; numbers.length; i++){
+            for (let i = 1; i < numbers.length; i++){
                 if (uniqueArr[0] === numbers[i]) {
                     uniqueArr.push(numbers[i]);
                 }else{uniqueArr2.push(numbers[i])}
             }
-            if(uniqueArr2.length &lt; uniqueArr.length){
+            if(uniqueArr2.length < uniqueArr.length){
                 return uniqueArr2[0];
             }else {return uniqueArr[0];}
         }
@@ -67,8 +67,8 @@ function disemvowel(str) {
             let arrStr = str.split("");
             let letterArr = ["a", "u", "e", "i", "o", "A", "U", "E", "I", "O"]
             let newStr = [];
-            nextStep: for (let i = 0; i &lt; arrStr.length; i++) {
-                for (let y = 0; y &lt; letterArr.length; y++) {
+            nextStep: for (let i = 0; i < arrStr.length; i++) {
+                for (let y = 0; y < letterArr.length; y++) {
                     if (arrStr[i] === letterArr[y]) {
                         continue nextStep;
                     }
