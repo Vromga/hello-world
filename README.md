@@ -2,8 +2,8 @@
 - Phone: +375 447157174
 - Email: Doktornikita@gmail.com
 - Skype: doktornikita
-- Telegram: @vromga
-- GitHub: @vromga
+- Telegram: [@vromga](https://t.me/vromga)
+- GitHub: [@vromga](https://github.com/Vromga)
 
 ## Summary
 I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Every single day as the
