@@ -5,7 +5,7 @@
 - Telegram: @vromga
 - GitHub: @vromga
 
-##Summary
+## Summary
 I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Every single day as the
             doctor I
             need to manage risks, deal with uncertainty, and be able to absorb animal’s pain and anxieties without
@@ -31,7 +31,7 @@ I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Ever
             my skills in web designing, polishing my skills and getting a new one, and combine my two passions –
             technologies and veterinary sciences.
             
-##Skills
+## Skills
 - Language JavaScript
 - Other technologies: HTML/HTML5, CSS/CSS3
 - Frameworks: React
@@ -42,9 +42,9 @@ I run a small vet clinic in Staryya Darohi a small town for almost 7 years. Ever
 - Search engines: Google.com, Stackoverflow.com
 - Other experience of using languages: PHP, Golang
 
-##Code examples
+## Code examples
 
-###Kata: Find the stray number
+### Kata: Find the stray number
 ```javascript
 function stray(numbers) {
             let uniqueArr = [];
@@ -61,7 +61,7 @@ function stray(numbers) {
         }
 ```
 
-###Kata: Disemvowel Trolls
+### Kata: Disemvowel Trolls
 ```javascript
 function disemvowel(str) {
             let arrStr = str.split("");
@@ -79,7 +79,7 @@ function disemvowel(str) {
         }
 ```
 
-##Education
+## Education
 - 2019 - You Don't Know JS Yet (book series) - 2nd Edition
 - 2019 – up to now [The Modern JavaScript Tutorial](https://learn.javascript.ru)
 - 2018 – up to now [HTML Academy](https://htmlacademy.ru/profile/vromga)
@@ -89,12 +89,12 @@ function disemvowel(str) {
 - 2003 – 2008 Vitebsk State Academy of Veterinary Medicine | Obstetrics, gynecology and biotechnology of
                   animal reproduction.
                   
-####Professional seminars and workshops
+#### Professional seminars and workshops
 - 12/09/2018 Methods of diagnosis and treatment of tumors of the skin and soft tissue.
 - 12/03/2018 A modern look at the stages of general anesthesia. From patient preparation to withdrawal
                   from anesthesia.
 - 30/03/2018 Participation in the seminar RS road show: skin disease.
 - 21/03/2016 Dietary aspects of the diets ProPlan Veterinary.
 
-##English
+## English
 English – B2
