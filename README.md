@@ -1,4 +1,4 @@
-# Moiseichyk Mikita Sergeevich
+# Moiseichyk Mikita
 - Phone: +375 447157174
 - Email: Doktornikita@gmail.com
 - Skype: doktornikita
