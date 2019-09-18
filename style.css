@@ -1,0 +1,79 @@
+html {
+    text-align: justify;
+    font-size: 24px;
+    font-family: Calibri, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1024px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    background-color: #b2bdb8;
+    background-image: url("https://www.transparenttextures.com/patterns/rice-paper-3.png");
+}
+
+.paper-clip {
+    position: absolute;
+    width: 7%;
+    top: -20px;
+    left: 40px;
+    z-index: 99;
+}
+
+.header-photo {
+    width: 40%;
+    border: 8px solid #dfdfdf;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    filter: brightness(110%);
+    transform: rotate(-2deg);
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-left: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+header ul {
+    list-style: none;
+}
+
+header ul li {
+    margin-top: 10px;
+}
+
+li img {
+
+    width: 20px;
+    height: 20px;
+}
+
+.code-section{
+    display: flex;
+    justify-content: flex-start;
+}
+.wrap{
+    width: 500px;
+}
+.code{
+    border-left: 5px solid brown;
+}
+code{
+    font-size: 0.7em;
+    font-family: monospace;
+}
